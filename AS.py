@@ -84,3 +84,6 @@ Graph_nodes = {
 
 # Run the algorithm
 aStarAlgo('A', 'J')
+
+
+# The code implements the A* algorithm to find the shortest path in a graph.
